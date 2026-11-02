@@ -1,3 +1,5 @@
+
+!pip install pandas numpy matplotlib scikit-learn
 # PRACTICAL 1: PCA – Dimensionality Reduction
 
 # A. To use PCA Algorithm for dimensionality reduction.
